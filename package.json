@@ -1,0 +1,11 @@
+{
+  "name": "tictactoe",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "tailwind": "tailwindcss -i ./src/input.css -o ./src/output.css --watch"
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.4.1"
+  }
+}
